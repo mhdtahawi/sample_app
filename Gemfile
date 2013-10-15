@@ -7,6 +7,8 @@ gem 'guard-rspec'
 gem 'guard-spork'
 gem 'spork'
 
+# Oh wekk!
+
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3-ruby'
 
