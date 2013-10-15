@@ -6,10 +6,9 @@ gem 'rspec-rails'
 gem 'guard-rspec'
 gem 'guard-spork'
 gem 'spork'
-gem 'pg'
 
 # Use sqlite3 as the database for Active Record
-#gem 'sqlite3'
+gem 'sqlite3-ruby'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
